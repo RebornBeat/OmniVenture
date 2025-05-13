@@ -1,7 +1,5 @@
 # OmniVenture
 
-<img src="/api/placeholder/200/200" alt="OmniVenture Logo Placeholder" />
-
 ## The All-in-One Startup Management Ecosystem
 
 OmniVenture is a comprehensive platform designed to manage multiple startups simultaneously through a unified interface. From project intake to financial management, community engagement to product development, OmniVenture provides the complete toolset needed for startup founders, accelerators, venture studios, and investment firms to efficiently operate across multiple ventures.
